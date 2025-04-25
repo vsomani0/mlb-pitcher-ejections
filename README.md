@@ -1,4 +1,4 @@
-#MLB: Are older mananagers more likely to throw at hitters?
+# MLB: Are older mananagers more likely to throw at hitters?
 ## Hypothesis
 
 Until the early 2000s, violating baseball’s so called unwritten rules (i.e staring too long at a home run, trying too hard to score when up big) often resulted in MLB pitchers intentionally throwing baseballs at hitters. Now, however, most look down on this practice -- it's far too extreme to hurt and potentially injure an opponent's batter just for a minor (and often unintended) slight. In spite of this, however, intetional hit by pitches still exist. Here, we analyze whether older managers, who grew up and had their norms influenced by the unwritten rules era, are more likely to have their pitchers intentionally hit batters.
